@@ -1,5 +1,7 @@
 # PyBer_Analysis
 
+## Overview of PyBer Analysis
+
 This analysis aims to identify patterns and trends in the PyBer data to aid decision makers in improving access to ride sharing services and determine affordability for underserved neighborhoods. The following analysis uses visualizations to showcase the relationship between the type of city—urban, suburban, and rural—and the follow metrics:
 
 -	the total number of rides
@@ -11,11 +13,10 @@ This analysis aims to identify patterns and trends in the PyBer data to aid deci
 
 ## Resources:
 
--	Jupiter Notebook
--	Python
--	city_data.csv, ride_data.csv
+-	Data Source: city_data.csv, ride_data.csv
+-	Software: Python 3.9.1, Jupyter Notebook 6.1.4
 
-### Results:
+## Results:
 
 ### Differences by City:
 
@@ -25,9 +26,16 @@ The following overall differences among cities was observed:
 -	Suburban cities had the second largest number of total rides: 625, total drivers: 490, and total fares: $19,854.33.  Suburban cities had the second lowest average fare per ride and per driver, both of which are $39.50.
 -	Urban cities had the largest number of total rides: 1625, total drivers: 2405 and total fares: $39,854.38. Urban cities had the lowest average fares per ride: $16.57, and average fare per driver: $16.57.
 
+![PyBer_Challenge_Summary_City_Type](/analysis/PyBer_Challenge_Summary_City_Type.png)
+
 ### Total Fare by City Type from January to April
 
 Further analysis was conducted on the total weekly fares for rural, suburban and urban cities to get a closer look at how the data compares among each city type. The disparities presented in the Pyber summary dataframe are also seen in multi-line chart “Total Fare by City Type and the January to April weekly fares by city type dataframe. The weekly fares for each city. Rural cities had the lowest total fares per week, suburban cities retained the second greatest total fares per week, and urban cities held the greatest total fares per week.
+
+![PyBer_Challenge_Jan_April_Weekly_Fare](/analysis/PyBer_Challenge_Jan_April_Weekly_Fare.png)
+
+![PyBer_Challenge_Fare_Summary_Line_Chart](/analysis/PyBer_Challenge_Fare_Summary_Line_Chart.png)
+
 
 ### Addressing Disparities
 
