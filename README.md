@@ -29,7 +29,9 @@ The following overall differences among cities was observed:
 
 Further analysis was conducted on the total weekly fares for rural, suburban and urban cities to get a closer look at how the data compares among each city type. The disparities presented in the Pyber summary dataframe are also seen in multi-line chart “Total Fare by City Type and the January to April weekly fares by city type dataframe. The weekly fares for each city. Rural cities had the lowest total fares per week, suburban cities retained the second greatest total fares per week, and urban cities held the greatest total fares per week.
 
-The following are recommendations to address these disparities:
+### Addressing Disparities
+
+The disparities among the city types and the key metrics addressed in this analysis are not surprising. The topography of urban cities is characteristically dense with more people, closer places, and less cars; a perfect environment for ridesharing to succeed in providing a high volume of ride for a low cost. Suburban and rural cities, on the other hand, riders and locations spread over a lengthier distance; it’s no surprise that there are less riders, less drivers, and high fares per ride. The follow three recommendation are provided in attempts to address the disparities between city types while keeping the difference in topography in mind. 
 
 1.	Increase the number of drivers in suburban. In suburban cities the number of total rides, 625, exceeds the number of drivers, 490. Whereas in urban cities the total number of drivers, 2,405, exceeds the number of rides, 1,625. Increasing the number of drivers in suburban cities can prompt a decrease in fare prices and encourage people to choose ridesharing for travel.
 
