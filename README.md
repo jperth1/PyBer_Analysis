@@ -30,7 +30,7 @@ The following overall differences among cities was observed:
 
 ### Total Fare by City Type from January to April
 
-Further analysis was conducted on the total weekly fares for rural, suburban and urban cities to get a closer look at how the data compares among each city type. The disparities presented in the Pyber summary dataframe are also seen in multi-line chart “Total Fare by City Type" and the DataFrame January to April weekly fares by city type dataframe. The weekly fares for each city. Rural cities had the lowest total fares per week, suburban cities retained the second greatest total fares per week, and urban cities held the greatest total fares per week.
+Further analysis was conducted on the total weekly fares for rural, suburban and urban cities to get a closer look at how the data compares among each city type. The disparities presented in the Pyber summary dataframe are also seen in multi-line chart “Total Fare by City Type" and the DataFrame "January to April Weekly Fares by City Type". Rural cities had the lowest total fares per week, suburban cities retained the second greatest total fares per week, and urban cities held the greatest total fares per week.
 
 ![PyBer_Challenge_Jan_April_Weekly_Fare](/analysis/PyBer_Challenge_Jan_April_Weekly_Fare.png)
 
